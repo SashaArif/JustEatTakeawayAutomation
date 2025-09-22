@@ -1,0 +1,11 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vspscc
+*.vssscc
+*.log
+*.vscode/
+*.dll
+*.exe
